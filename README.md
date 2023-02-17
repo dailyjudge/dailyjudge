@@ -56,11 +56,6 @@ Here are some ideas to get you started:
   </div>
  
   
-  <!-- Language-->
-  <div align='center'>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">   
-  </div>
-  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=judgemk1)](https://solved.ac/judgemk1/) 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=dailyjudge&show_icons=true&hide_border=true)](https://github.com/dailyjudge)
