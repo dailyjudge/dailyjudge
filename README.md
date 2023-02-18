@@ -49,8 +49,8 @@
   </div>
 
 <br><br>
-[![github stats](https://github-readme-stats.vercel.app/api?username=dailyjudge&show_icons=true&hide_border=true)](https://github.com/dailyjudge)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailyjudge&layout=compact)](https://github.com/dailyjudge)  
+ 
+![dailyjudge's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailyjudge&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailyjudge&layout=compact&theme=tokyonight)](https://github.com/dailyjudge)  
 
 
 <!--
