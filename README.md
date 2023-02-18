@@ -1,22 +1,9 @@
-### Creative Web Developer👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdailyjudge)](https://hits.seeyoufarm.com)
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=judgemk1)](https://solved.ac/judgemk1/)
-<!--
-**dailyjudge/dailyjudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...ddddd
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  <div align='center'><h1>🔥 Stack</h1></div>
+### Creative Web Developer👋
+[![github stats](https://github-readme-stats.vercel.app/api?username=dailyjudge&show_icons=true&hide_border=true)](https://github.com/dailyjudge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailyjudge&layout=compact)](https://github.com/dailyjudge)
+<div align='center'><h1>🔥 Stack</h1></div>
 
   <!-- Language-->
   <div align='center'>
@@ -57,7 +44,24 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/sourcetree-blue?style=for-the-badge&logo=sourcetree&logoColor=white">
   </div>
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=judgemk1)](https://solved.ac/judgemk1/)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=dailyjudge&show_icons=true&hide_border=true)](https://github.com/dailyjudge)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailyjudge&layout=compact)](https://github.com/dailyjudge)
+<!--
+**dailyjudge/dailyjudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...ddddd
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+  
+  
+
+
 
