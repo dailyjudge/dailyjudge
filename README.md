@@ -2,6 +2,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=judgemk1)](https://solved.ac/judgemk1/)
 ### Creative Web Developer 😉 
 
+#### 2023.03 ~ HCG HR Tech Consultant
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmk961202@gmail.com)](mailto:jmk961202@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:judgemk1@naver.com)](mailto:judgemk1@naver.com)
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+
   
 
 
